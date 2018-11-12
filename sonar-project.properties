@@ -1,0 +1,6 @@
+sonar.projectKey=sonar_projectKey
+sonar.projectName=sonar_projectName
+sonar.java.binaries=.
+sonar.java.sources=.
+sonar.sources=.
+sonar.sourceEncoding=UTF-8
