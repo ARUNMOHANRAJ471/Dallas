@@ -140,6 +140,7 @@ class CallCentre extends React.Component {
     }
     this.setState({Patients: Fulldata});
     if (SearchedContact === "" || SearchedContact === undefined) {
+      //console.log("undefined")
       this.setState({Patients: Fulldata});
     } else {
       for (let i in this.state.Fulldata) {
