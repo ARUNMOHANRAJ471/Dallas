@@ -64,6 +64,7 @@ class CallCentre extends React.Component {
     }
   }
   componentWillMount() {
+    console.log("mount")
     let Patients = [];
     let Trial = [];
     let Count = 0;
