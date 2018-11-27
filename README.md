@@ -15,7 +15,7 @@ Run these commands
 
 To install the required dependencies
 
-	$ npm install
+	$ npm i
 
 To build the application
 
