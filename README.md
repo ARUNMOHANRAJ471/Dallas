@@ -17,7 +17,7 @@ To install the required dependencies
 
 	$ npm install
 
-To build the app
+To build the application
 
 	$ npm run build
 
