@@ -24,6 +24,7 @@ class ListAppointments extends React.Component {
   }
 
   componentWillMount() {
+    console.log("value")
     let context = this;
     let appointmentDetails = [];
     $.ajax({
