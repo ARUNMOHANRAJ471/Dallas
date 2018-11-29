@@ -21,6 +21,6 @@ To build the app
 
 	$ npm run build
 
-To run the application
+To run the app
 
 	$ npm run server
